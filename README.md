@@ -32,8 +32,7 @@ The dashboard provides insights into COVID-19 cases, deaths, recoveries, and oth
 - KPI Visualizations
 
 ## 🖼️ Dashboard Preview
-
-![COVID-19 Tableau Dashboard](Corona_Dashboard.png)
+![COVID-19 Tableau Dashboard](./Corona_Dashboard.png.png)
 
 ## 📂 Project Files
 
